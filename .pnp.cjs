@@ -39,7 +39,7 @@ const RAW_RUNTIME_STATE =
           ["@hmcts/nodejs-healthcheck", "npm:1.8.6"],\
           ["@hmcts/nodejs-logging", "npm:4.0.4"],\
           ["@hmcts/properties-volume", "npm:1.2.0"],\
-          ["@npmcli/fs", "npm:4.0.0"],\
+          ["@npmcli/fs", "npm:5.0.0"],\
           ["@playwright/test", "npm:1.56.1"],\
           ["@types/chai-as-promised", "npm:8.0.2"],\
           ["@types/config", "npm:3.3.5"],\
@@ -6098,10 +6098,10 @@ const RAW_RUNTIME_STATE =
       }]\
     ]],\
     ["@npmcli/fs", [\
-      ["npm:4.0.0", {\
-        "packageLocation": "./.yarn/cache/@npmcli-fs-npm-4.0.0-1d9cc8a27b-405c4490e1.zip/node_modules/@npmcli/fs/",\
+      ["npm:5.0.0", {\
+        "packageLocation": "./.yarn/cache/@npmcli-fs-npm-5.0.0-9d737ae2f3-4935c7719d.zip/node_modules/@npmcli/fs/",\
         "packageDependencies": [\
-          ["@npmcli/fs", "npm:4.0.0"],\
+          ["@npmcli/fs", "npm:5.0.0"],\
           ["semver", "npm:7.7.3"]\
         ],\
         "linkType": "HARD"\
@@ -9597,7 +9597,7 @@ const RAW_RUNTIME_STATE =
       ["npm:19.0.1", {\
         "packageLocation": "./.yarn/cache/cacache-npm-19.0.1-395cba1936-ea026b27b1.zip/node_modules/cacache/",\
         "packageDependencies": [\
-          ["@npmcli/fs", "npm:4.0.0"],\
+          ["@npmcli/fs", "npm:5.0.0"],\
           ["cacache", "npm:19.0.1"],\
           ["fs-minipass", "npm:3.0.3"],\
           ["glob", "npm:10.4.5"],\
@@ -12432,7 +12432,7 @@ const RAW_RUNTIME_STATE =
           ["@hmcts/nodejs-healthcheck", "npm:1.8.6"],\
           ["@hmcts/nodejs-logging", "npm:4.0.4"],\
           ["@hmcts/properties-volume", "npm:1.2.0"],\
-          ["@npmcli/fs", "npm:4.0.0"],\
+          ["@npmcli/fs", "npm:5.0.0"],\
           ["@playwright/test", "npm:1.56.1"],\
           ["@types/chai-as-promised", "npm:8.0.2"],\
           ["@types/config", "npm:3.3.5"],\
