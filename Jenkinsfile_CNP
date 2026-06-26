@@ -1,6 +1,6 @@
 #!groovy
 
-@Library("Infrastructure")
+@Library("Infrastructure@poll_for_pods")
 
 def type = "nodejs"
 def product = "fact"
