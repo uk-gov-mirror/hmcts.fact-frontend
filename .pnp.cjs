@@ -59,7 +59,7 @@ const RAW_RUNTIME_STATE =
           ["@typescript-eslint/parser", "virtual:a19c5d45c91db68c2747317aa473fe5d57578fe6e1aacbda18f5798bcaa77b2f4e2379016587e880623e46738f4948ce214dc05fd152754f4261b7f65c23d4eb#npm:5.62.0"],\
           ["allure-codeceptjs", "virtual:a19c5d45c91db68c2747317aa473fe5d57578fe6e1aacbda18f5798bcaa77b2f4e2379016587e880623e46738f4948ce214dc05fd152754f4261b7f65c23d4eb#npm:3.10.2"],\
           ["allure-commandline", "npm:2.43.0"],\
-          ["allure-playwright", "virtual:a19c5d45c91db68c2747317aa473fe5d57578fe6e1aacbda18f5798bcaa77b2f4e2379016587e880623e46738f4948ce214dc05fd152754f4261b7f65c23d4eb#npm:3.4.3"],\
+          ["allure-playwright", "virtual:a19c5d45c91db68c2747317aa473fe5d57578fe6e1aacbda18f5798bcaa77b2f4e2379016587e880623e46738f4948ce214dc05fd152754f4261b7f65c23d4eb#npm:3.10.2"],\
           ["applicationinsights", "virtual:a19c5d45c91db68c2747317aa473fe5d57578fe6e1aacbda18f5798bcaa77b2f4e2379016587e880623e46738f4948ce214dc05fd152754f4261b7f65c23d4eb#npm:2.9.8"],\
           ["autobind-decorator", "npm:2.4.0"],\
           ["awilix", "npm:12.0.5"],\
@@ -5147,19 +5147,12 @@ const RAW_RUNTIME_STATE =
         ],\
         "linkType": "SOFT"\
       }],\
-      ["npm:3.4.3", {\
-        "packageLocation": "./.yarn/cache/allure-js-commons-npm-3.4.3-cf14bd7f8e-b648be19c2.zip/node_modules/allure-js-commons/",\
-        "packageDependencies": [\
-          ["allure-js-commons", "npm:3.4.3"]\
-        ],\
-        "linkType": "SOFT"\
-      }],\
-      ["virtual:15b71dfdbd13ec361c8fdd1c5b28ac2a60f716e92ad2f7b18ccf808c8aeb6dc3824ddbb4f0afa67bf007f6e804b4e5a789de70ad45c7025986657dce37fc458b#npm:3.4.3", {\
-        "packageLocation": "./.yarn/__virtual__/allure-js-commons-virtual-a081e21b38/0/cache/allure-js-commons-npm-3.4.3-cf14bd7f8e-b648be19c2.zip/node_modules/allure-js-commons/",\
+      ["virtual:6b410d0d458e11e2d1dc22bcc58495bf7026f08b53c690fbbd058aeca694dae4c07fcb235ce0f4ed750ceba7f88be57b3293257222aaf2a97962eef59f645bf7#npm:3.10.2", {\
+        "packageLocation": "./.yarn/__virtual__/allure-js-commons-virtual-23394e0449/0/cache/allure-js-commons-npm-3.10.2-8e04492092-afb8a946c1.zip/node_modules/allure-js-commons/",\
         "packageDependencies": [\
           ["@types/allure-playwright", null],\
-          ["allure-js-commons", "virtual:15b71dfdbd13ec361c8fdd1c5b28ac2a60f716e92ad2f7b18ccf808c8aeb6dc3824ddbb4f0afa67bf007f6e804b4e5a789de70ad45c7025986657dce37fc458b#npm:3.4.3"],\
-          ["allure-playwright", "virtual:a19c5d45c91db68c2747317aa473fe5d57578fe6e1aacbda18f5798bcaa77b2f4e2379016587e880623e46738f4948ce214dc05fd152754f4261b7f65c23d4eb#npm:3.4.3"],\
+          ["allure-js-commons", "virtual:6b410d0d458e11e2d1dc22bcc58495bf7026f08b53c690fbbd058aeca694dae4c07fcb235ce0f4ed750ceba7f88be57b3293257222aaf2a97962eef59f645bf7#npm:3.10.2"],\
+          ["allure-playwright", "virtual:a19c5d45c91db68c2747317aa473fe5d57578fe6e1aacbda18f5798bcaa77b2f4e2379016587e880623e46738f4948ce214dc05fd152754f4261b7f65c23d4eb#npm:3.10.2"],\
           ["md5", "npm:2.3.0"]\
         ],\
         "packagePeers": [\
@@ -5207,20 +5200,20 @@ const RAW_RUNTIME_STATE =
       }]\
     ]],\
     ["allure-playwright", [\
-      ["npm:3.4.3", {\
-        "packageLocation": "./.yarn/cache/allure-playwright-npm-3.4.3-6b78ec1c17-9ec7313e0f.zip/node_modules/allure-playwright/",\
+      ["npm:3.10.2", {\
+        "packageLocation": "./.yarn/cache/allure-playwright-npm-3.10.2-546f29593d-e7270965dc.zip/node_modules/allure-playwright/",\
         "packageDependencies": [\
-          ["allure-playwright", "npm:3.4.3"]\
+          ["allure-playwright", "npm:3.10.2"]\
         ],\
         "linkType": "SOFT"\
       }],\
-      ["virtual:a19c5d45c91db68c2747317aa473fe5d57578fe6e1aacbda18f5798bcaa77b2f4e2379016587e880623e46738f4948ce214dc05fd152754f4261b7f65c23d4eb#npm:3.4.3", {\
-        "packageLocation": "./.yarn/__virtual__/allure-playwright-virtual-15b71dfdbd/0/cache/allure-playwright-npm-3.4.3-6b78ec1c17-9ec7313e0f.zip/node_modules/allure-playwright/",\
+      ["virtual:a19c5d45c91db68c2747317aa473fe5d57578fe6e1aacbda18f5798bcaa77b2f4e2379016587e880623e46738f4948ce214dc05fd152754f4261b7f65c23d4eb#npm:3.10.2", {\
+        "packageLocation": "./.yarn/__virtual__/allure-playwright-virtual-6b410d0d45/0/cache/allure-playwright-npm-3.10.2-546f29593d-e7270965dc.zip/node_modules/allure-playwright/",\
         "packageDependencies": [\
           ["@playwright/test", "npm:1.58.2"],\
           ["@types/playwright__test", null],\
-          ["allure-js-commons", "virtual:15b71dfdbd13ec361c8fdd1c5b28ac2a60f716e92ad2f7b18ccf808c8aeb6dc3824ddbb4f0afa67bf007f6e804b4e5a789de70ad45c7025986657dce37fc458b#npm:3.4.3"],\
-          ["allure-playwright", "virtual:a19c5d45c91db68c2747317aa473fe5d57578fe6e1aacbda18f5798bcaa77b2f4e2379016587e880623e46738f4948ce214dc05fd152754f4261b7f65c23d4eb#npm:3.4.3"]\
+          ["allure-js-commons", "virtual:6b410d0d458e11e2d1dc22bcc58495bf7026f08b53c690fbbd058aeca694dae4c07fcb235ce0f4ed750ceba7f88be57b3293257222aaf2a97962eef59f645bf7#npm:3.10.2"],\
+          ["allure-playwright", "virtual:a19c5d45c91db68c2747317aa473fe5d57578fe6e1aacbda18f5798bcaa77b2f4e2379016587e880623e46738f4948ce214dc05fd152754f4261b7f65c23d4eb#npm:3.10.2"]\
         ],\
         "packagePeers": [\
           "@playwright/test",\
@@ -8706,7 +8699,7 @@ const RAW_RUNTIME_STATE =
           ["@typescript-eslint/parser", "virtual:a19c5d45c91db68c2747317aa473fe5d57578fe6e1aacbda18f5798bcaa77b2f4e2379016587e880623e46738f4948ce214dc05fd152754f4261b7f65c23d4eb#npm:5.62.0"],\
           ["allure-codeceptjs", "virtual:a19c5d45c91db68c2747317aa473fe5d57578fe6e1aacbda18f5798bcaa77b2f4e2379016587e880623e46738f4948ce214dc05fd152754f4261b7f65c23d4eb#npm:3.10.2"],\
           ["allure-commandline", "npm:2.43.0"],\
-          ["allure-playwright", "virtual:a19c5d45c91db68c2747317aa473fe5d57578fe6e1aacbda18f5798bcaa77b2f4e2379016587e880623e46738f4948ce214dc05fd152754f4261b7f65c23d4eb#npm:3.4.3"],\
+          ["allure-playwright", "virtual:a19c5d45c91db68c2747317aa473fe5d57578fe6e1aacbda18f5798bcaa77b2f4e2379016587e880623e46738f4948ce214dc05fd152754f4261b7f65c23d4eb#npm:3.10.2"],\
           ["applicationinsights", "virtual:a19c5d45c91db68c2747317aa473fe5d57578fe6e1aacbda18f5798bcaa77b2f4e2379016587e880623e46738f4948ce214dc05fd152754f4261b7f65c23d4eb#npm:2.9.8"],\
           ["autobind-decorator", "npm:2.4.0"],\
           ["awilix", "npm:12.0.5"],\
